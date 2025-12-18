@@ -2,6 +2,8 @@
 
 A stunning, modern, and fully animated website for **Wafflet**, a premium waffle brand showcasing 35+ waffle varieties across 30+ locations in 9+ states.
 
+https://snippykid.github.io/Wafflet/
+
 ![Wafflet](https://img.shields.io/badge/Wafflet-Premium%20Waffles-FF5555?style=for-the-badge&logo=waffle)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
